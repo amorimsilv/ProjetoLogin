@@ -70,6 +70,10 @@ div#formulario > p {
     color: black;
 }
 
+div.campo > label {
+    display: none;
+}
+
 form > input[type=submit] {
     background-color: #6A98C3;
     color: white;
